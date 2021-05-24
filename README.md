@@ -1,8 +1,13 @@
-Hi there 👋
-I'm a Back-end Developer working in Famalicão, Portugal.
-NOW
+### Hi there 👋
+
+### I'm a Back-end Developer working in Famalicão, Portugal.
+
+### NOW
+
 ✨ Learning WebAPI with c#;
-BIO
+
+### BIO
+
 🏢 I'm currently working at APRManagement Solutions
 ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
 🌍 I'm mostly active within the Microsoft Community
