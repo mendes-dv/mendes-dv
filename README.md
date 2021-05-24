@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Back-end Developer working in Famalicão, Portugal.
+### I'm a Back-end Developer working in Porto, Portugal.
 
 ### NOW
 
