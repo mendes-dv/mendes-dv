@@ -5,6 +5,7 @@
 ### NOW
 
 ✨ Learning WebAPI with c#;
+🌟 Learning React with ts;
 
 ### BIO
 
