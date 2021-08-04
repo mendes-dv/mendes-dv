@@ -9,7 +9,7 @@
 
 ### BIO
 
-- 🏢 I'm currently working at APRManagement Solutions
+- 🏢 I'm currently working at ITGuest
 - ⚙️ I use daily: .c#, .js, .html, .css, .svg, .psd, .ai
 - 🌍 I'm mostly active within the Microsoft Community
 - 💬 Ping me about API, Web, Rest, TDD
