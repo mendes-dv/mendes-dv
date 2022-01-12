@@ -4,7 +4,7 @@
 
 ### NOW
 
-- ✨ Learning Web3 and NFTs;
+- ✨ Learning Web3 and Crypto;
 
 ### BIO
 
