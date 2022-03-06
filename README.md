@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-### I'm a Developer working in Porto, Portugal.
+### I'm a Software Developer working in Porto, Portugal.
 
 ### NOW
 
+- 🎈 Learning Sharepoint Migrations;
 - ✨ Learning Web3 and Crypto;
 
 ### BIO
