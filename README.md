@@ -2,8 +2,8 @@
 #### I'm a Software Developer working in Braga, Portugal.
 ### NOW
 
-- 🎈 Learning Micro-Frontends;
-- 🤓 Learn Test with Jest;
+- 🎈 Building projects with nextjs;
+- 🤓 Learn about the beauty of react;
 
 ### BIO
 
