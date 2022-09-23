@@ -8,7 +8,7 @@
 ### BIO
 
 - ⚙️ I use daily: tsx, .c#, .js, .ts, .html, .css, .svg
-- 💬 Ping me about API, Rest, Sharepoint, React 
+- 💬 Ping me about API, Rest, React 
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/gon%C3%A7alomendes/) [Email](mailto:goncalo.mendes.dev@gmail.com)
 
 <div align="center">
