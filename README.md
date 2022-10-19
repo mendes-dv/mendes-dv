@@ -1,15 +1,15 @@
 ### Hi there 👋
-#### I'm a Software Developer working in Braga, Portugal.
+#### I'm a Software Developer working in Porto, Portugal.
 ### NOW
 
-- 🎈 Building projects with nextjs;
+- 🎈 Building projects with .Net Core and Kubernets;
 - 🤓 Learn about the beauty of react;
 
 ### BIO
 
 - ⚙️ I use daily: tsx, .c#, .js, .ts, .html, .css, .svg
 - 💬 Ping me about API, Rest, React 
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/gon%C3%A7alomendes/) [Email](mailto:goncalo.mendes.dev@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/goncalo-o-mendes/) [Email](mailto:goncalo.mendes.dev@gmail.com)
 
 <div align="center">
   <a href="https://github.com/goncalo-mendes">
