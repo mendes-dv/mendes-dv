@@ -2,7 +2,7 @@
 #### I'm a Software Developer working in Porto, Portugal.
 ### NOW
 
-- 🎈 Building projects with .Net Core and Kubernets;
+- 🎈 Building projects with .Net Core;
 - 🤓 Learn about the beauty of react;
 
 ### BIO
