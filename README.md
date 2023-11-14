@@ -1,9 +1,8 @@
 ### Hi there 👋
-#### I'm a Software Developer working in Famalicão, Portugal.
+#### I'm a Software Developer working in Porto, Portugal.
 ### NOW
 
 - 🎈 Building projects with .Net Core;
-- 🤓 Learn about the beauty of react;
 
 ### BIO
 
