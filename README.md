@@ -7,7 +7,7 @@
 ### BIO
 
 - ⚙️ I use daily: `.tsx`, `.cs`, `.html`, `.css`, `.svg`, `.js`
-- 💬 Ping me about .Net Core, Nextjs, Angular
+- 💬 Ping me about **Software architecture**, **Development**, **Gaming**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/goncalo-o-mendes/) [Email](mailto:goncalo.mendes.dev@gmail.com)
 
 <div align="center">
